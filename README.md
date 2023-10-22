@@ -2,7 +2,7 @@
 
 !["hangman image"](./hangman.png)
 
-Written using as an opportunity to use `Chalk`.
+Written using as an opportunity to use [Chalk](https://www.npmjs.com/package/chalk).
 
 Play the game by cloning down the repo and running:
 
