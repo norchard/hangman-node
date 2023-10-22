@@ -83,7 +83,8 @@ const makeOutput = () => {
       "  " +
       answer +
       "  " +
-      wrong(incorrectGuesses.join(" "))
+      wrong(incorrectGuesses.join(" ")) +
+      "\n"
   );
 };
 
